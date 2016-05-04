@@ -1,0 +1,18 @@
+﻿<xapCache source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Bin\Release\PhoneApp1_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/22/2016 10:29:31 AM">
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\obj\Release\PhoneApp1.dll" archivePath="PhoneApp1.dll" lastWriteTime="4/22/2016 10:29:31 AM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/21/2016 2:25:19 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/21/2016 2:04:34 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="4/21/2016 2:12:07 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="4/21/2016 2:12:08 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="4/21/2016 2:12:08 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.xml" archivePath="System.Net.Http.xml" lastWriteTime="4/21/2016 2:12:08 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Extensions.xml" archivePath="System.Net.Http.Extensions.xml" lastWriteTime="4/21/2016 2:12:08 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\packages\Microsoft.Net.Http.2.2.29\lib\sl4-windowsphone71\System.Net.Http.Primitives.xml" archivePath="System.Net.Http.Primitives.xml" lastWriteTime="4/21/2016 2:12:08 PM" />
+  <file source="C:\Users\v-wuwa\Desktop\PhoneApp1\PhoneApp1\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/21/2016 2:25:19 PM" />
+</xapCache>
